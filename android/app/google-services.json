@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534904445423",
+    "project_id": "learningx-task",
+    "storage_bucket": "learningx-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534904445423:android:067b6919edd2f3a142fe1a",
+        "android_client_info": {
+          "package_name": "com.example.learningx_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TblybgeAFS4yD3mQZbWJEVUrVYYgBE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
